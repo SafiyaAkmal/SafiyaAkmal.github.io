@@ -1,0 +1,30 @@
+h1	{
+	color: white;
+	text-shadow: 2px 2px 4px darkblue;
+}
+body {
+  background-image: url("background.png") ;
+  opacity: 0.75
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed; }
+p {
+  margin-right: 150px;
+  margin-left: 80px;
+}
+h4 {
+  text-align: center;
+}
+p {
+  text-indent: 50px;
+   line-height: 1.8;
+}
+.underline {
+  border-bottom: 6px black;
+}
+p {
+	color: white;
+	font-family: "Verdana";
+	font-size: 16px
+}
+p.double {outline-style: double;}
