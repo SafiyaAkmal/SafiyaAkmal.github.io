@@ -10,7 +10,7 @@ body {
   background-image: url("background.png") ;
   opacity: 0.75
   background-repeat: no-repeat;
-  background-position: right top;
+  background-position: right bottom;
   background-attachment: fixed; }
 p {
   margin-right: 150px;
