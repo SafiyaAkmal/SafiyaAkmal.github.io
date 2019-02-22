@@ -1,0 +1,56 @@
+h2 {color: #002266; 
+  text-shadow: 2px 2px 4px white;
+  font-family: sans-serif;}
+body {
+  background-image: url("img(11).jpg") ;
+  opacity: 0.75
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed; }
+h1 {
+  color: seagreen;
+  text-shadow: 2px 2px 4px white;
+}
+p {
+	font-size: 12pt
+}
+.bodas {
+	color: darkblue
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color: darkblue
+}
+
+li a:hover {
+  background-color: #111;
+}
+p {
+  margin-right: 150px;
+  margin-left: 80px;
+  text-indent: 50px;
+   line-height: 1.8;
+}
+h2 {
+	  text-indent: 50px;
+   line-height: 1.8;
+}
+h3 {
+	  text-indent: 50px;
+   line-height: 1.8;
+}
